@@ -14,11 +14,11 @@ Repositori ini berisi analisis data menggunakan metode regresi linear sederhana 
 
 ### 📁 Data
 - `dataset.csv`
+- `Dataset.CSV.xls`
 
 ### 📁 Output
 - `scatterplot_resolusi_tinggi.png`
-- `model_summary.txt`
-- `asumsi_klasik_output.txt`
+- `DataHasilOlahan_10_RB.pdf`
 
 ### 📁 Poster
 - `poster_A1.pdf`
