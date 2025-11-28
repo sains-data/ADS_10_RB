@@ -10,20 +10,25 @@ Repositori ini berisi analisis data menggunakan metode regresi linear sederhana 
 - Menguji asumsi klasik regresi dan menilai validitas model.
 
 ## 📁 Struktur Folder
-├── Data
-│   └── dataset.csv
-│
-├── Output
-│   ├── scatterplot_resolusi_tinggi.png
-│   ├── model_summary.txt
-│   └── asumsi_klasik_output.txt
-│
-├── Poster
-│   └── poster_A1.pdf
-│
-├── README.md
-├── codeR_10_RB.R
-└── dataset.csv
+## 📂 Struktur Folder
+
+### 📁 Data
+- `dataset.csv`
+
+### 📁 Output
+- `scatterplot_resolusi_tinggi.png`
+- `model_summary.txt`
+- `asumsi_klasik_output.txt`
+
+### 📁 Poster
+- `poster_A1.pdf`
+
+### 📄 File Utama
+- `README.md`
+- `codeR_10_RB.R`
+- `dataset.csv`
+
+
 
 ## 📈 Hasil Utama
 - Persamaan regresi:  
@@ -34,11 +39,6 @@ Repositori ini berisi analisis data menggunakan metode regresi linear sederhana 
      Secara praktis, kondisi ini memang tidak mungkin terjadi pada data, karena kategori uang saku dimulai dari 1 sampai 4. Namun dalam konteks model regresi, konstanta tetap perlu disertakan karena berfungsi sebagai titik awal garis regresi.
   2. Interpretasi Koefisien β₁ (0.02183)
      Koefisien β₁ mewakili besarnya perubahan IPK untuk setiap kenaikan satu kategori uang saku dengan asumsi variabel lain konstan.
-     Kategori uang saku:
-     1 = 500k – 1 juta
-     2 = 1 – 1.5 juta
-     3 = 1.5 – 2 juta
-     4 = > 2 juta
      Karena nilai β₁ = 0.02183, interpretasinya adalah:
      Untuk setiap kenaikan 1 kategori uang saku, IPK mahasiswa diprediksi meningkat sebesar 0.02183 poin. Artinya, jika mahasiswa naik kategori uang saku dari kategori 1 → 2, atau 2 → 3, maka model memprediksi IPK naik sangat kecil, yaitu sekitar 0.02 poin saja. Dengan kata lain, pengaruh uang saku terhadap IPK adalah sangat kecil dan tidak signifikan secara statistik.
 - Korelasi Pearson
