@@ -21,7 +21,8 @@ Repositori ini berisi analisis data menggunakan metode regresi linear sederhana 
 - `DataHasilOlahan_10_RB.pdf`
 
 ### 📁 Poster
-- `poster_A1.pdf`
+- `Poster_10_RB.pdf`
+- `Poster_10_RB.png`
 
 ### 📄 File Utama
 - `README.md`
