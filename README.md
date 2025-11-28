@@ -63,7 +63,7 @@ Repositori ini berisi analisis data menggunakan metode regresi linear sederhana 
    git clone https://github.com/USERNAME/NAMA-REPO.git
 2. Buka
    ```
-   R/model_regresi.R
+   CodeR_RB_10.R
 3. Jalankan script di RStudio
 
 ## ✨ Kontributor
