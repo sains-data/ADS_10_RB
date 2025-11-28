@@ -63,11 +63,11 @@ Repositori ini berisi analisis data menggunakan metode regresi linear sederhana 
    git clone https://github.com/USERNAME/NAMA-REPO.git
 2. Buka
    ```
-   CodeR_RB_10.R
+   CodeR_10_RB.R
 3. Jalankan script di RStudio
 
 ## ✨ Kontributor
 1. Bernardinus Enggar Rosiano (124450045)
-2. ..
-3. ..
-4. ..
+2. Dimas Arya Ramadhan (124450118)
+3. Aisyah Khairun Nisa (124450091)
+4. Dafa Elpriza (124450131)
